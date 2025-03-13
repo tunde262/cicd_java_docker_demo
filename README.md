@@ -1,5 +1,7 @@
 # CI/CD Java Gradle Docker Demo
-This project demonstrates a **CI/CD pipeline** for a simple **Java** application using **Gradle**, **JUnit**, **Docker**, and **GitHub Actions**. The application contains basic arithmetic operations and is packaged into a Docker container for deployment..
+This project demonstrates a **CI/CD pipeline** for a simple **Java** application using **Gradle**, **JUnit**, **Docker**, and **GitHub Actions**. The application contains basic arithmetic operations and is packaged into a Docker container for deployment.
+
+![thumbnail](https://github.com/tunde262/cicd_java_docker_demo/blob/main/assets/thumbnail.png?raw=true)
 
 ## Project Goal
 
